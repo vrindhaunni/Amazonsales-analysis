@@ -11,8 +11,8 @@ Sales management has emerged as the cornerstone of commercial enterprises, essen
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : Clean the data and load it to power bi.
+- Step 3 : Clean the dataset by removing unwanted columns and duplicates
+- Step 4 : Transform the data and load it to power bi.
 - Step 5 : In the report view, under the view tab, theme was selected.
 - Step 6 : Since the data contains various ratings, thus in order to represent ratings, a new visual was added using the three ellipses in the visualizations pane in report view. 
 - Step 7 : Visual filters (Slicers) were added for the fields named "Country", "Priority", "Year" .
